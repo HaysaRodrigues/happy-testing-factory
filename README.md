@@ -13,9 +13,10 @@
 1. [Guru99 - Software Testing](https://www.guru99.com/software-testing.html)
 
 
-### Must follow blogs :computer:
+### Software Testing Blogs :computer:
 ###### Everybody interested in software quality should follow 
 1. [Code climate - Your checklist for quality code](blog.codeclimate.com)
+2. [Software Testing Help](http://www.softwaretestinghelp.com/)
 
 
 ### Books :books:
