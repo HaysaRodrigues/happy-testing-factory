@@ -21,6 +21,7 @@
 2. [Software Testing Help](http://www.softwaretestinghelp.com/)
 3. [Tools QA](http://toolsqa.com/category/blogs/)
 4. [Ministry of Testing](https://www.ministryoftesting.com/)
+5. [ThoughtWorks Insights](https://www.thoughtworks.com/insights/software-testing) A lot great software testing material there.
 
 
 
