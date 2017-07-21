@@ -20,6 +20,6 @@
 
 ### Books :books:
   - Test Automation Books 
-      - **Experiences of Test Automation: Case Studies of Software Test Automation** by Dorothy Graham & Mark Fewster
+      - [Experiences of Test Automation: Case Studies of Software Test Automation](https://www.amazon.com/gp/product/0321754069/) by Dorothy Graham & Mark Fewster
       
   - Great Advice Software Testing
