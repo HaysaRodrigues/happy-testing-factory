@@ -22,6 +22,7 @@
 3. [Tools QA](http://toolsqa.com/category/blogs/)
 4. [Ministry of Testing](https://www.ministryoftesting.com/)
 5. [ThoughtWorks Insights](https://www.thoughtworks.com/insights/software-testing) A lot great software testing material there.
+6. [Atlassian Software Testing Blog](https://www.atlassian.com/software-testing)
 
 
 
