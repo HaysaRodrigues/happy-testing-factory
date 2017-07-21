@@ -18,4 +18,8 @@
 1. [Code climate - Your checklist for quality code](blog.codeclimate.com)
 
 
-### Books - Automated Software Testing :books:
+### Books :books:
+  - Test Automation Books 
+      - **Experiences of Test Automation: Case Studies of Software Test Automation** by Dorothy Graham & Mark Fewster
+      
+  - Great Advice Software Testing
