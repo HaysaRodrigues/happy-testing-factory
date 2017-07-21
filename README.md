@@ -7,6 +7,8 @@
 1.  [uTest](https://www.utest.com/courses)
 2.  [Udemy](https://www.udemy.com) - Search for software test.
 3.  [Udacity - How to make software fail](https://br.udacity.com/course/software-testing--cs258/)
+4.  [Coursera](https://www.coursera.org)
+5.  [edX](https://www.edx.org)
 
 
 ### Awesome tutorials :bulb:
@@ -17,10 +19,13 @@
 ###### Everybody interested in software quality should follow 
 1. [Code climate - Your checklist for quality code](blog.codeclimate.com)
 2. [Software Testing Help](http://www.softwaretestinghelp.com/)
+3. [Tools QA](http://toolsqa.com/category/blogs/)
+4. [Ministry of Testing](https://www.ministryoftesting.com/)
+
 
 
 ### Books :books:
   - Test Automation Books 
       - [Experiences of Test Automation: Case Studies of Software Test Automation](https://www.amazon.com/gp/product/0321754069/) by Dorothy Graham & Mark Fewster
       
-  - Great Advice Software Testing
+  - Great Advice Software Testing Books
