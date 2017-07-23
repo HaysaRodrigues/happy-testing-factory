@@ -11,11 +11,7 @@
 5.  [edX](https://www.edx.org)
 
 
-### Awesome tutorials :bulb:
-1. [Guru99 - Software Testing](https://www.guru99.com/software-testing.html)
-
-
-### Software Testing Blogs :computer:
+### Software Testing Blogs with great tutorials and indispensable contents :computer:
 ###### Everybody interested in software quality should follow 
 1. [Code climate - Your checklist for quality code](blog.codeclimate.com)
 2. [Software Testing Help](http://www.softwaretestinghelp.com/)
@@ -23,6 +19,7 @@
 4. [Ministry of Testing](https://www.ministryoftesting.com/)
 5. [ThoughtWorks Insights](https://www.thoughtworks.com/insights/software-testing) A lot great software testing material there.
 6. [Atlassian Software Testing Blog](https://www.atlassian.com/software-testing)
+7. [Guru99 - Software Testing](https://www.guru99.com/software-testing.html)
 
 
 
