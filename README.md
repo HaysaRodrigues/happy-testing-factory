@@ -20,7 +20,7 @@
 5. [ThoughtWorks Insights](https://www.thoughtworks.com/insights/software-testing) A lot great software testing material there.
 6. [Atlassian Software Testing Blog](https://www.atlassian.com/software-testing)
 7. [Guru99 - Software Testing](https://www.guru99.com/software-testing.html)
-
+8. [The Bug Bang Theory](http://www.bugbang.com.br)
 
 
 ### Books :books:
