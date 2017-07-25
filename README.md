@@ -24,7 +24,8 @@
 
 
 ### Books :books:
-  - Test Automation Books 
-      - [Experiences of Test Automation: Case Studies of Software Test Automation](https://www.amazon.com/gp/product/0321754069/) by Dorothy Graham & Mark Fewster
+Test Automation Books 
+1. [Experiences of Test Automation: Case Studies of Software Test Automation](https://www.amazon.com/gp/product/0321754069/) by Dorothy Graham & Mark Fewster
       
-  - Great Advice Software Testing Books
+Great Advice Software Testing Books
+1. [Dear Evil Tester: Provocative Advice That Could Change Your Approach To Testing Forever](https://www.amazon.com/Dear-Evil-Tester-Provocative-Approach/dp/0956733271) by Mr Alan J Richardson
