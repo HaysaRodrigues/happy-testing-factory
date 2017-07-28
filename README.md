@@ -21,6 +21,8 @@
 6. [Atlassian Software Testing Blog](https://www.atlassian.com/software-testing)
 7. [Guru99 - Software Testing](https://www.guru99.com/software-testing.html)
 8. [The Bug Bang Theory](http://www.bugbang.com.br)
+9. [Tooth of the Weasel](http://angryweasel.com/blog/)
+10. [Joe Colantonio - Automation awesomeness](https://www.joecolantonio.com/) Really great content!
 
 
 ### Books :books:
