@@ -23,6 +23,7 @@
 8. [The Bug Bang Theory](http://www.bugbang.com.br)
 9. [Tooth of the Weasel](http://angryweasel.com/blog/)
 10. [Joe Colantonio - Automation awesomeness](https://www.joecolantonio.com/) Really great content!
+11. [Angie Jones](http://www.angiejones.tech/)
 
 
 ### Books :books:
