@@ -24,6 +24,7 @@
 9. [Tooth of the Weasel](http://angryweasel.com/blog/)
 10. [Joe Colantonio - Automation awesomeness](https://www.joecolantonio.com/) Really great content!
 11. [Angie Jones](http://www.angiejones.tech/)
+12. [euroStar Software Testing](https://huddle.eurostarsoftwaretesting.com/)
 
 
 ### Books :books:
