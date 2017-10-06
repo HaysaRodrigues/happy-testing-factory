@@ -37,6 +37,7 @@ Test Automation Books
       
 Great Advice Software Testing Books
 1. [Dear Evil Tester: Provocative Advice That Could Change Your Approach To Testing Forever](https://www.amazon.com/Dear-Evil-Tester-Provocative-Approach/dp/0956733271) by Mr Alan J Richardson
+2. [Succeeding with Agile: Software Development Using Scrum](https://www.amazon.com/gp/product/0321579364/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=joecol05-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0321579364&linkId=728328c4151aa219929704a2dd42d464)
 
 ## Auxiliary Tools
 1. [ngrok](https://ngrok.com/)
