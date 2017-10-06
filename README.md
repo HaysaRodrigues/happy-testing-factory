@@ -25,6 +25,7 @@
 10. [Joe Colantonio - Automation awesomeness](https://www.joecolantonio.com/) Really great content!
 11. [Angie Jones](http://www.angiejones.tech/)
 12. [euroStar Software Testing](https://huddle.eurostarsoftwaretesting.com/)
+13. [techbeacon](https://learn.techbeacon.com/)
 
 ### Publications Must Read 
 1. [Skills Software Testing](https://huddle.eurostarsoftwaretesting.com/skills-software-testing/)
