@@ -38,7 +38,6 @@
 ### Publications Must Read 
 1. [Skills Software Testing](https://huddle.eurostarsoftwaretesting.com/skills-software-testing/)
 
-
 ### Books
 :books: Test Automation Books 
 1. [Experiences of Test Automation: Case Studies of Software Test Automation](https://www.amazon.com/gp/product/0321754069/) - by Dorothy Graham & Mark Fewster
