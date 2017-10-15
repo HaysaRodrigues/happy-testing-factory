@@ -1,13 +1,13 @@
-# Happy Testing Factory (https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Happy Testing Factory [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ###### This is a try to facilitate the search for great materials regarding to software testing field. Let's do happy testing. :beetle: :neckbeard: :bug:
 
 ## Table of Contents
 
-* [Getting courses about Software Testing](#getting-courses-about-software-testing-:pencil:)
-* [Software Testing Blogs with great tutorials and indispensable contents](#software-testing-blogs-with-great-tutorials-and-indispensable-contents-:computer:)
+* [Getting courses about Software Testing](#getting-courses-about-software-testing)
+* [Software Testing Blogs with great tutorials and indispensable contents](#software-testing-blogs-with-great-tutorials-and-indispensable-contents)
 * [Publications Must Read](#publications-must-read)
-* [Books](#books-:books:)
+* [Books](#books)
 * [Auxiliary Tools](#auxiliary-tools)
 
 ### Getting courses about Software Testing :pencil:
