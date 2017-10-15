@@ -10,8 +10,8 @@
 * [Books](#books)
 * [Auxiliary Tools](#auxiliary-tools)
 
-### Getting courses about Software Testing :pencil:
-###### Where to find?
+### Getting courses about Software Testing
+###### :pencil: Where to find?
 1.  [uTest](https://www.utest.com/courses)
 2.  [Udemy](https://www.udemy.com) - Search for software test.
 3.  [Udacity - How to make software fail](https://br.udacity.com/course/software-testing--cs258/)
@@ -19,8 +19,8 @@
 5.  [edX](https://www.edx.org)
 
 
-### Software Testing Blogs with great tutorials and indispensable contents :computer:
-###### Everybody interested in software quality should follow 
+### Software Testing Blogs with great tutorials and indispensable contents
+###### :computer: Everybody interested in software quality should follow 
 1. [Code climate - Your checklist for quality code](blog.codeclimate.com)
 2. [Software Testing Help](http://www.softwaretestinghelp.com/)
 3. [Tools QA](http://toolsqa.com/category/blogs/)
@@ -39,11 +39,11 @@
 1. [Skills Software Testing](https://huddle.eurostarsoftwaretesting.com/skills-software-testing/)
 
 
-### Books :books:
-Test Automation Books 
+### Books
+:books: Test Automation Books 
 1. [Experiences of Test Automation: Case Studies of Software Test Automation](https://www.amazon.com/gp/product/0321754069/) - by Dorothy Graham & Mark Fewster
       
-Great Advice Software Testing Books
+:books: Great Advice Software Testing Books
 1. [Dear Evil Tester: Provocative Advice That Could Change Your Approach To Testing Forever](https://www.amazon.com/Dear-Evil-Tester-Provocative-Approach/dp/0956733271) - by Mr Alan J Richardson
 2. [Succeeding with Agile: Software Development Using Scrum](https://www.amazon.com/gp/product/0321579364/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=joecol05-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0321579364&linkId=728328c4151aa219929704a2dd42d464)
 
