@@ -45,6 +45,7 @@
 :books: Great Advice Software Testing Books
 1. [Dear Evil Tester: Provocative Advice That Could Change Your Approach To Testing Forever](https://www.amazon.com/Dear-Evil-Tester-Provocative-Approach/dp/0956733271) - by Mr Alan J Richardson
 2. [Succeeding with Agile: Software Development Using Scrum](https://www.amazon.com/gp/product/0321579364/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=joecol05-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0321579364&linkId=728328c4151aa219929704a2dd42d464)
+3. [Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=0321534468&pd_rd_r=DTPSSFVP07A31M34T2WA&pd_rd_w=tY1FP&pd_rd_wg=FRzet&psc=1&refRID=DTPSSFVP07A31M34T2WA) by Lisa Crispin and Janet Gregory
 
 ### Auxiliary Tools
 ###### Tools that makes our work easier.
