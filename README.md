@@ -18,6 +18,9 @@
 4.  [Coursera](https://www.coursera.org)
 5.  [edX](https://www.edx.org)
 
+### Git Repositories
+###### Useful projects to learn ways to make projects better
+1. [first-steps-protractor-web](https://github.com/luizaguerra/first-steps-protractor-web)
 
 ### Software Testing Blogs with great tutorials and indispensable contents
 ###### :computer: Everybody interested in software quality should follow 
