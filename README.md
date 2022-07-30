@@ -1,6 +1,6 @@
 # Happy Testing Factory [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-###### This is a try to facilitate the search for great materials regarding to software testing field. Let's do happy testing. :beetle: :neckbeard: :bug:
+###### We are attempting to facilitate access to a broader source of material/ resources regarding software testing field. Let's do happy testing. :beetle: :neckbeard: :bug:
 
 ## Table of Contents
 
